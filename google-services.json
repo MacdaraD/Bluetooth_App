@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "22312707149",
+    "firebase_url": "https://bluetoothdevicesurvey-ea8b2.firebaseio.com",
+    "project_id": "bluetoothdevicesurvey-ea8b2",
+    "storage_bucket": "bluetoothdevicesurvey-ea8b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22312707149:android:1e80c304e173e6c9",
+        "android_client_info": {
+          "package_name": "com.example.macdaraday.bluetoothdevicesurvey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22312707149-ngnm350k8hctopie3rl8o54tp966k9fb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.macdaraday.bluetoothdevicesurvey",
+            "certificate_hash": "ac878b0926466815425482302af0d7d6342b5da7"
+          }
+        },
+        {
+          "client_id": "22312707149-c5gh6ka9amiafjd5j7s173t66bqj0fg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0AeJMx40P4ZgXl-9MgaDpd27FOAw7H9s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22312707149-c5gh6ka9amiafjd5j7s173t66bqj0fg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
